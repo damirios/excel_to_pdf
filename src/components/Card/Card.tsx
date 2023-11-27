@@ -35,7 +35,11 @@ export function Card({ row }: { row: Row }) {
           <span></span>
         </div>
       </div>
-      <img src="public/assets/bg.png" alt="logo" className="card__bg" />
+      <img
+        src="../../../public/assets/bg.png"
+        alt="logo"
+        className="card__bg"
+      />
     </div>
   );
 }
