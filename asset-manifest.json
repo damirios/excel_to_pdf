@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/excel_to_pdf/static/css/main.7a438fcb.css",
+    "main.js": "/excel_to_pdf/static/js/main.e636fc33.js",
+    "index.html": "/excel_to_pdf/index.html",
+    "main.7a438fcb.css.map": "/excel_to_pdf/static/css/main.7a438fcb.css.map",
+    "main.e636fc33.js.map": "/excel_to_pdf/static/js/main.e636fc33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a438fcb.css",
+    "static/js/main.e636fc33.js"
+  ]
+}
