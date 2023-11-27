@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/excel_to_pdf/static/css/main.6003b7d3.css",
+    "main.css": "/excel_to_pdf/static/css/main.62f1b04c.css",
     "main.js": "/excel_to_pdf/static/js/main.8a72e3e0.js",
     "index.html": "/excel_to_pdf/index.html",
-    "main.6003b7d3.css.map": "/excel_to_pdf/static/css/main.6003b7d3.css.map",
+    "main.62f1b04c.css.map": "/excel_to_pdf/static/css/main.62f1b04c.css.map",
     "main.8a72e3e0.js.map": "/excel_to_pdf/static/js/main.8a72e3e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6003b7d3.css",
+    "static/css/main.62f1b04c.css",
     "static/js/main.8a72e3e0.js"
   ]
 }
