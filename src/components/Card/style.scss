@@ -1,4 +1,8 @@
 .card {
+    &:nth-child(10n) {
+        margin-bottom: 200px;
+    }
+
     flex: 0 0 auto;
     height: 280px;
     border: 2px solid rgb(201, 200, 200);
