@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/excel_to_pdf/static/css/main.b528ad78.css",
-    "main.js": "/excel_to_pdf/static/js/main.f88d7c47.js",
+    "main.css": "/excel_to_pdf/static/css/main.4e3b85ce.css",
+    "main.js": "/excel_to_pdf/static/js/main.38ed8f91.js",
     "index.html": "/excel_to_pdf/index.html",
-    "main.b528ad78.css.map": "/excel_to_pdf/static/css/main.b528ad78.css.map",
-    "main.f88d7c47.js.map": "/excel_to_pdf/static/js/main.f88d7c47.js.map"
+    "main.4e3b85ce.css.map": "/excel_to_pdf/static/css/main.4e3b85ce.css.map",
+    "main.38ed8f91.js.map": "/excel_to_pdf/static/js/main.38ed8f91.js.map"
   },
   "entrypoints": [
-    "static/css/main.b528ad78.css",
-    "static/js/main.f88d7c47.js"
+    "static/css/main.4e3b85ce.css",
+    "static/js/main.38ed8f91.js"
   ]
 }
