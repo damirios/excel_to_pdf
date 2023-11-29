@@ -1,4 +1,6 @@
 .card {
+    font-size: 18px;
+
     &:nth-child(10n) {
         margin-bottom: 70px;
     }
@@ -7,16 +9,20 @@
     height: 280px;
     border: 2px solid rgb(201, 200, 200);
     border-radius: 16px;
-    padding: 15px 30px 15px 15px;
+    padding: 15px 25px 15px 15px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    row-gap: 20px;
     position: relative;
     overflow: hidden;
 
     &__title {
+        flex: 1 1 auto;
         margin: 0;
         padding: 0;
+        display: flex;
+        align-items: center;
     }
 
     &__body {
@@ -45,11 +51,10 @@
         }
     }
 
-    &__bg {
+    &__icon {
         position: absolute;
-        bottom: -120px;
-        right: -140px;
-        opacity: 0.3;
-        transform: scale(0.7);
+        bottom: -124px;
+        right: -110px;
+        opacity: 0.5;
     }
 }

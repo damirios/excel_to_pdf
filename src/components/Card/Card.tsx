@@ -10,7 +10,9 @@ export function Card({ row }: { row: Row }) {
   const releaseDate = String(row[5] ?? "-");
   return (
     <div className="card">
-      <h2 className="card__title">{title}</h2>
+      <h2 className="card__title">
+        <span>{title}</span>
+      </h2>
       <div className="card__body">
         <div className="card__inventory-number card__line">
           Инвентарный номер:
@@ -35,7 +37,11 @@ export function Card({ row }: { row: Row }) {
           <span></span>
         </div>
       </div>
-      <img src="./assets/bg.png" alt="logo" className="card__bg" />
+      <img
+        src={`${process.env.PUBLIC_URL}./assets/bg_new.png`}
+        alt="logo"
+        className="card__bg"
+      />
     </div>
   );
 }
