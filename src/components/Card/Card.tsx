@@ -37,11 +37,13 @@ export function Card({ row }: { row: Row }) {
           <span></span>
         </div>
       </div>
-      <img
-        src={`${process.env.PUBLIC_URL}./assets/bg_new.png`}
-        alt="logo"
-        className="card__bg"
-      />
+      <div className="card__icon">
+        <img
+          src={`${process.env.PUBLIC_URL}/assets/bg_new.png`}
+          alt="logo"
+          className="card__bg"
+        />
+      </div>
     </div>
   );
 }
